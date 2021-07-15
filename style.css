@@ -1,3 +1,14 @@
 body {
     background-color:burlywood;
+    font-family:'Merriweather', serif;
+
+}
+header {
+    text-align:center;
+    font-family:'Zen Loop', cursive;
+    font-size:200%;
+}
+.housepic {
+    height: 200px;
+    width: auto;
 }
