@@ -1,5 +1,5 @@
 body {
-    background-color:burlywood;
+    background-color:lightskyblue;
     font-family:'Merriweather', serif;
 
 }
@@ -7,8 +7,35 @@ header {
     text-align:center;
     font-family:'Zen Loop', cursive;
     font-size:200%;
+    
+}
+h2 {
+    text-align:center;
 }
 .housepic {
+    height: 300px;
+    width: auto;
+    margin-left: 60px;
+}
+p {
+    margin-left:20px;
+}
+.aboutMeText {
+    text-align:center;
+}
+.profile {
     height: 200px;
     width: auto;
+    border-radius:150px;
+}
+.junePic {
+    height: 200px;
+    width:auto;
+}
+.noahPic {
+    height: 200px;
+    width:auto;
+}
+.junePic {
+    margin-left:60px;
 }
